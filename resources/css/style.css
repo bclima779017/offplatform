@@ -1,0 +1,28 @@
+/*fontes universais */
+html {
+    background-color: black;
+    text-align: center;
+}
+
+.main-title {
+    font-family: verdana;
+    font-size: 50px;
+    color: white;
+}
+
+.second-title {
+    font-family: verdana;
+    font-size: 30px;
+    color: gray;
+}
+
+
+#link-to-download {
+    color:aquamarine;
+    font-size: 16px
+}
+
+#cabana {
+    margin: 30px;
+}
+
